@@ -1,4 +1,4 @@
-# Git Commands
+## Git Commands
 
 Git provides numerous commands for managing version control. Here are some of the most commonly used Git commands:
 
